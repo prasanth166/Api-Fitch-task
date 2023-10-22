@@ -1,0 +1,60 @@
+
+.h1 
+ { 
+   color:#d65a84; 
+  
+ } 
+ .container 
+ { 
+     text-align: center; 
+  
+     z-index: 1; 
+ } 
+ button { 
+   background-color:pink;
+   color: white; 
+ cursor: pointer; 
+ } 
+ .inputgroup input{
+  text-align: justify;
+  background-color: #d65a84;
+ }
+  
+ .btn{ 
+     width:100px; 
+     padding: 5px; 
+  
+ } 
+ body{ 
+     background-image: url(pexels2.jpg); 
+     background-size: cover; 
+     background-repeat: no-repeat; 
+     height: 100vh;
+ } 
+ .login 
+ { 
+   text-decoration: none; 
+   color:white; 
+   font-size: larger; 
+   border-radius: 10px; 
+   border-color: aqua; 
+ } 
+ .btn1{ 
+   font-size: larger; 
+   border-radius: 10px; 
+   border-color: aqua; 
+   color:black; 
+ }
+ label{
+    font-size: larger;
+ }
+ input{
+    padding: 5px;
+ }
+ button a{
+    text-decoration: none;
+    color: antiquewhite;
+ }
+ .logbtn button{
+  color: white;
+ }
